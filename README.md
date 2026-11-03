@@ -22,3 +22,8 @@ Practice exams (MEB style, open-ended, 40 min) with separate answer keys, plus s
 | `Study_Guide_Chemistry_Senaryo3.pdf` | Study guide (English) |
 
 Not official MEB documents.
+
+## presentations/
+| File | What |
+|---|---|
+| `Tragedies_That_Changed_America.pptx` | 5-minute class presentation with speaker notes (English) |
