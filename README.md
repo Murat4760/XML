@@ -11,6 +11,9 @@ Practice exams (MEB style, open-ended, 40 min) with separate answer keys, plus s
 | `Biyoloji10_1Donem1Yazili_CevapAnahtari.pdf` | Answer key for the practice exam |
 | `Konu_Anlatimi_Biyoloji_Senaryo2.pdf` | Study guide (Turkish) |
 | `Study_Guide_Biology_Senaryo2_EN.pdf` | Study guide (English) |
+| `Biyoloji_Senaryo2_Notlar_ve_Cozumler.pdf` | Short Senaryo 2 notes + solved Zeduva Senaryo 2 (answers not official) |
+| `Zeduva_Biyoloji_Senaryolar_1-4.pdf` | Zeduva practice papers, Senaryo 1–4 (source, not made here) |
+| `Zeduva_Biyoloji_Genel_Tekrar.pdf` | Zeduva 9-page review notes (source, not made here) |
 
 ## kimya/ — Senaryo 3 (exam: Wed 4 Nov)
 | File | What |
